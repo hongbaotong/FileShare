@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Procedure="GetSubData/Response">
+  <Record Type="">
+    <Filed Name="FileName">123.jpg</Filed>
+    <Filed Name="Offset">120012</Filed>
+    <Filed Name="Size">adfadsfasdfewetg24</Filed>
+  </Record>
+</Package>

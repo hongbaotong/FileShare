@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Procedure="GetFileInfo/Response">
+  <Record Type="">
+    <Filed Name="FileName">123.jpg</Filed>
+    <Filed Name="Size">120012</Filed>
+    <Filed Name="Md5">adfadsfasdfewetg24</Filed>
+  </Record>
+</Package>

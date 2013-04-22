@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Procedure="GetFileInfo/Request">
+  <Record Type="">
+    <Filed Name="FileName">123.jpg</Filed>
+  </Record>
+</Package>

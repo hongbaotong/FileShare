@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package Procedure="GetShareList/Response">
+  <Record Type="">
+    <Filed Name="ShareName">123.jpg</Filed>
+    <Filed Name="Size">120012</Filed>
+    <Filed Name="Md5">adfadsfasdfewetg24</Filed>
+  </Record>
+  <Record Type="">
+    <Filed Name="ShareName">456.jpg</Filed>
+    <Filed Name="Size">56468</Filed>
+    <Filed Name="Md5">wertwqywrt436452rg</Filed>
+  </Record>
+</Package>
